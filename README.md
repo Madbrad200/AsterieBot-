@@ -1,12 +1,24 @@
 # AsterieBot
 
+- [Links](#links)
+- [**Introduction**](#introduction)
+- [**Key Features**](#key-features)
+  * [**Demo**](#--demo--)
+- [**Sample Commands**](#sample-commands)
+- [FAQ](#faq)
+  * [FAQ 1: GENERAL](#faq-1--general)
+  * [FAQ 2: TAROT FAQ](#faq-2--tarot-faq)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 # Links
 
 * [INVITE THE BOT TO YOUR SERVER](https://discord.com/api/oauth2/authorize?client_id=795063486988156958&permissions=2147609664&scope=bot)
 * [JOIN THE BOTS SUPPORT & DEV SERVER](https://discord.gg/hq8VPdjFPb)
 * The bot is not currently open source, but if it is in the future - it'll be here.
 
-## **Asterie's Introduction**
+## **Introduction**
 
 @AsterieBot is primarily a divination-focused bot, specialising in providing in-depth meanings and explanations behind the cards, runes, and other divinatory systems it’s capable of. It doesn’t just pull, say, a tarot card - rather, it will pull a Tarot card and provide keywords, the card image (including possible reversals), and a description - enough to give you a healthy understanding. The bot has a wide variety of decks and multiple rune sets, as well as an 8-Ball command, hieroglyphic divination, daily horoscopes, astrology & tarot memes, & other misc commands.
 
@@ -34,7 +46,7 @@ I will always strive to add more decks (tarot, oracle, lenormand, etc), if possi
 [Video Demonstration](https://vimeo.com/537121128)
 
 ---
-**Sample Commands:**
+# **Sample Commands**
 
 Command Name (`[]` = replace with answer) | What it does
 -----------------------------------------|------------
