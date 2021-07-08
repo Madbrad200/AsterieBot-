@@ -3,11 +3,11 @@
 - [Links](#links)
 - [**Introduction**](#introduction)
 - [**Key Features**](#key-features)
-  * [**Demo**](#--demo--)
+  * Demo
 - [**Sample Commands**](#sample-commands)
 - [FAQ](#faq)
-  * [FAQ 1: GENERAL](#faq-1--general)
-  * [FAQ 2: TAROT FAQ](#faq-2--tarot-faq)
+  * FAQ 1: GENERAL
+  * FAQ 2: TAROT FAQ
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
