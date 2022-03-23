@@ -10,6 +10,7 @@
 - [FAQ](#faq)
   * FAQ 1: GENERAL
   * FAQ 2: TAROT FAQ
+- [Privacy Policy](#privacy-policy)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -119,3 +120,8 @@ Yes - see `?help deckban`. You can ban decks from appearing during random pulls,
 **Can I create a list of favourite decks to pull from?**
 
 Yes! See `?help tarot` - you can use the `addfaves` subcommand to create a list of decks that are your 'faves'. You can then pull cards from these decks via `?tarot fave`
+
+# Privacy Policy
+
+The only data stored in the bot is 1) Name/id of the servers that the bot is in 2) the bot's prefix in a server 3) user bot settings, such as your tarot embed setting, along with discord ID's associated with these settings. Servers are removed from the database once the bot leaves the server.
+None of this is ever shared with anybody other than the sole bot owner (who can be contacted via the support server https://discord.gg/hq8VPdjFPb).
